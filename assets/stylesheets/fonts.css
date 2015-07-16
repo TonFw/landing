@@ -1,0 +1,75 @@
+
+/* ===================================================
+   Apppick Fonts Stylesheet
+
+   TOC:
+    01. font: aileronlight
+    02. font: aileronthin
+    03. font: aileronregular
+
+====================================================== */
+
+
+
+/* ====================================================
+   font: aileronlight
+=======================================================*/
+@font-face {
+    font-family: 'aileronlight';
+    src: url('../fonts/aileron-light-webfont.eot');
+    src: url('../fonts/aileron-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/aileron-light-webfont.woff2') format('woff2'),
+         url('../fonts/aileron-light-webfont.woff') format('woff'),
+         url('../fonts/aileron-light-webfont.ttf') format('truetype'),
+         url('../fonts/aileron-light-webfont.svg#aileronlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* ====================================================
+   font: aileronthin
+=======================================================*/
+@font-face {
+    font-family: 'aileronthin';
+    src: url('../fonts/aileron-thin-webfont.eot');
+    src: url('../fonts/aileron-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/aileron-thin-webfont.woff2') format('woff2'),
+         url('../fonts/aileron-thin-webfont.woff') format('woff'),
+         url('../fonts/aileron-thin-webfont.ttf') format('truetype'),
+         url('../fonts/aileron-thin-webfont.svg#aileronthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* ====================================================
+   font: aileronregular
+=======================================================*/
+@font-face {
+    font-family: 'aileronregular';
+    src: url('../fonts/aileron-regular-webfont.eot');
+    src: url('../fonts/aileron-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/aileron-regular-webfont.woff2') format('woff2'),
+         url('../fonts/aileron-regular-webfont.woff') format('woff'),
+         url('../fonts/aileron-regular-webfont.ttf') format('truetype'),
+         url('../fonts/aileron-regular-webfont.svg#aileronregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* ====================================================
+   font: aileronbold
+=======================================================*/
+@font-face {
+    font-family: 'aileronbold';
+    src: url('../fonts/aileron-bold-webfont.eot');
+    src: url('../fonts/aileron-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/aileron-bold-webfont.woff2') format('woff2'),
+         url('../fonts/aileron-bold-webfont.woff') format('woff'),
+         url('../fonts/aileron-bold-webfont.ttf') format('truetype'),
+         url('../fonts/aileron-bold-webfont.svg#aileronbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
